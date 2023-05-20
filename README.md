@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddarth Sairaj</h1>
-<h3 align="center">Here you'll find an overview of my education, professional experience, achievements, and skills. I am passionate about full-stack software development, data science, cloud computing, machine learning, and DevOps. Feel free to explore my repositories and get in touch.</h3>
+<h3 align="center">I am passionate about full-stack software development, AI, data science, cloud computing, machine learning, and DevOps. Feel free to explore my repositories and get in touch.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boatcow&label=Profile%20views&color=0e75b6&style=flat" alt="boatcow" /> </p>
 
